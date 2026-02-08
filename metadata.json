@@ -1,0 +1,8 @@
+{
+  "name": "VogueAI - Virtual Try-On",
+  "description": "A next-generation virtual try-on and AR furniture application using AI and Computer Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
